@@ -6,8 +6,8 @@ I went to university from 2018 to 2020, I was studying Telematics Engineering in
 
 ### Hobbies
 - Music 
-- Series
-- Videogames
-- Beach
-- Friends 
+- Series 🎞
+- Videogames 🎮
+- Beach 🏖
+- Friends 🍻
 
