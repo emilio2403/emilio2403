@@ -1,8 +1,8 @@
 # WELCOME!
 Hello I am Emilio López Novillo and this is my personal git.
 
-### Trayectory
-I went to university from 2018 until 2020, I have studied Telematics Engineering in Madrid at the Politécnica University. Nowadays I am studying a superior degree of development of multiplatform applications at IES Luis Vives on Leganés. During all this time I have learned that my passion is codding and backend. I am willing to keep learning more about codding languages.
+### Trajectory
+I went to university from 2018 until 2020, I studied Telematics Engineering in Madrid at Politécnica University. Nowadays I am studying a superior degree on Multiplatform App Development at IES Luis Vives, in Leganés. During all this time I have learned that my passion is coding and backend. I am willing to keep learning more about programming languages.
 
 ### Hobbies
 - Music 🎶
@@ -17,7 +17,7 @@ I went to university from 2018 until 2020, I have studied Telematics Engineering
 
 ___
 
-### Technologies I known about
+### Technologies I know about
 <div align="center">
   <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" height="75"/>
   <img src="https://ooi.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LKPU2wzMxBOvFQpzlkK%2F-LP1ozRGWuZ56zrrwTde%2F-LP1s6iAXrYkbdW9LEyY%2Fimage.png?alt=media&token=05cead33-7d37-43ba-8621-368ce22ce10a" height="75"/>
