@@ -20,7 +20,6 @@ ___
 ### Technologies I know about
 <div align="center">
   <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" height="75"/>
-  <img src="https://ooi.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LKPU2wzMxBOvFQpzlkK%2F-LP1ozRGWuZ56zrrwTde%2F-LP1s6iAXrYkbdW9LEyY%2Fimage.png?alt=media&token=05cead33-7d37-43ba-8621-368ce22ce10a" height="75"/>
   <img src="https://sipremcol.co/web/assets/img/tecnologias/t_androids.png" height="75"/>
   <img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png" height="75"/>
   <img src="https://miro.medium.com/max/512/1*wsUFLalh9OOXk8kXQMKRhg.jpeg" height="75"/>
